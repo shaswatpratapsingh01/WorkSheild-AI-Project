@@ -1,0 +1,6 @@
+{
+  "name": "WorkShield AI",
+  "description": "Empowering workers and employers with AI hazard analysis, safety reporting, fatigue monitoring, transparent pay, and skill passports for Construction and Campus staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
